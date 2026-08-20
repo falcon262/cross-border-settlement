@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Settlement.Payments.Api/Settlement.Payments.Api.csproj" />
+    <Project Path="src/Settlement.Payments.Domain/Settlement.Payments.Domain.csproj" />
+    <Project Path="src/Settlement.Payments.Infrastructure/Settlement.Payments.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Settlement.Payments.Tests/Settlement.Payments.Tests.csproj" />
+  </Folder>
+</Solution>
