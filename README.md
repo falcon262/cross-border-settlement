@@ -24,7 +24,7 @@ is planned. Nothing is listed as done until it is committed and provable.
 | Capability | Status |
 |---|---|
 | Solution structure, domain-inward references | ✅ Done |
-| `Payment` aggregate + EF Core 9 / PostgreSQL persistence | 🔨 In progress |
+| `Payment` aggregate + EF Core 9 / PostgreSQL persistence | ✅ Done |
 | `POST /payments`, `GET /payments/{id}`, RFC 9457 problem details | 🔨 In progress |
 | Idempotency enforced at the database boundary | 🔨 In progress |
 | Structured logging (Serilog, compact JSON) | 🔨 In progress |
